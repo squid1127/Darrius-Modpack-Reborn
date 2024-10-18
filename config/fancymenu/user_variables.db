@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = darrius_modpack_version
+  value = (4.0.0-beta1)
+  reset_on_launch = false
+}
+
